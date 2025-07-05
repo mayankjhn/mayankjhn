@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Agarwal</h1>
 <h3 align="center">B.Tech CSE (Cyber Security & Digital Forensics) | VIT Bhopal</h3>
 
-- 🔭 I’m currently working on **Secure Attendance System for College**
 - 👯 Always open to **collaborations and open-source projects**
 
 ---
@@ -24,11 +23,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mayank-agarwal27&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mayank-agarwal27&theme=radical"/>
 </p>
-
----
-
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/mayank-agarwal27/mayank-agarwal27/output/github-contribution-grid-snake.svg)
 
 ---
 
