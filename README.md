@@ -5,45 +5,35 @@
 ---
 
 ## About Me
-I'm a Computer Science student at **VIT Bhopal University**, passionate about building **secure, scalable, and interactive applications**.  
-I enjoy **problem-solving**, contributing to **open-source projects**, and constantly improving my skills in **software development, DSA, and blockchain technologies**.
-
-- 🌱 Learning advanced **full-stack development, smart contracts, and DSA in Java**.  
-- 💡 Interested in **blockchain, decentralized applications (dApps), and software testing**.  
-- 📫 Reach me at **agrawalmayank2004@gmail.com**  
-- ⚡ Fun fact: I completed a **100-Day DSA Challenge** and actively participate in hackathons!  
+I'm a Computer Science student at **VIT Bhopal University**, passionate about **problem-solving, open-source contribution, and learning new technologies**.  
+I enjoy building **secure and interactive applications** and improving my skills in **DSA, backend development, and blockchain technologies**.
 
 ---
 
 ## Skills
-**Programming Languages:** Python, Java (DSA), JavaScript (Basic)  
-**Frameworks / Tools:** React.js, Node.js, Express.js, Solidity, Hardhat, Git, GitHub, VS Code  
-**Testing & Concepts:** PyTest, Unit Testing, OOP, REST APIs, Problem-Solving, Modular Coding  
-**Other Tech:** IPFS, MetaMask, Blockchain (Polygon), Smart Contracts  
 
----
-
-## Projects
-
-### **ChainProof 🛡️**
-**Tech:** React.js, Node.js, Express.js, Solidity, Hardhat, IPFS, MetaMask, Polygon  
-A decentralized application for verifying file integrity using blockchain technology.  
-- Generates unique IPFS hashes for uploaded files.  
-- Stores file fingerprints on the Polygon blockchain via smart contracts.  
-- Users can verify file authenticity instantly.  
-- Frontend integrated with MetaMask, backend manages IPFS uploads.  
-**GitHub:** [ChainProof](https://github.com/mayankjhn/chainproof-hackathon)  
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) 
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
+![Express](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express) 
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity) 
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) 
+![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux) 
+![IPFS](https://img.shields.io/badge/-IPFS-333333?style=for-the-badge&logo=ipfs)
 
 ---
 
 ## Achievements
 - 🏆 **HackSecure Hackathon 2025 – Winner:** Built nEigent8, a cross-platform data-leak prevention system.  
 - 🥉 **iHackMyPlace (Societe Generale) – 3rd Place:** Solved real-world tech challenges.  
-- 🌟 **Open-Source Contributor – GSSoC 2025:** Contributing to community projects and improving documentation.  
-- 📜 **NPTEL Elite Certificate – Blockchain & Its Applications:** Deep understanding of DLT, Smart Contracts, and dApps.  
-- 💻 Completed a **100-Day DSA Challenge** in Java on LeetCode & CodeChef.  
+- 🌟 **Open-Source Contributor – GSSoC 2025:** PRs, issue fixes, and documentation improvements.  
+- 📜 **NPTEL Elite Certificate – Blockchain & Its Applications:** DLT, Smart Contracts, dApps.  
+- 💻 Completed a **100-Day DSA Challenge (Java)** on LeetCode & CodeChef.  
 
 ---
 
-## Let's Connect
+## Connect with Me
 [LinkedIn](https://linkedin.com/in/mayankjhn) | [GitHub](https://github.com/mayankjhn) | agrawalmayank2004@gmail.com  
