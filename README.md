@@ -1,27 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mayank Agarwal</h1>
-<h3 align="center">B.Tech CSE (Cyber Security & Digital Forensics) | VIT Bhopal</h3>
+# Hi there, I'm Mayank Agarwal 👋
 
-- 👯 Always open to **collaborations and open-source projects**
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**Aspiring Full-Stack Developer | Python & Java Enthusiast | Blockchain Explorer**
 
 ---
 
+## About Me
+I'm a Computer Science student at **VIT Bhopal University**, passionate about building **secure, scalable, and interactive applications**.  
+I enjoy **problem-solving**, contributing to **open-source projects**, and constantly improving my skills in **software development, DSA, and blockchain technologies**.
+
+- 🌱 Learning advanced **full-stack development, smart contracts, and DSA in Java**.  
+- 💡 Interested in **blockchain, decentralized applications (dApps), and software testing**.  
+- 📫 Reach me at **agrawalmayank2004@gmail.com**  
+- ⚡ Fun fact: I completed a **100-Day DSA Challenge** and actively participate in hackathons!  
 
 ---
 
-### 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/mayank-agarwal27" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mayank@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## Skills
+**Programming Languages:** Python, Java (DSA), JavaScript (Basic)  
+**Frameworks / Tools:** React.js, Node.js, Express.js, Solidity, Hardhat, Git, GitHub, VS Code  
+**Testing & Concepts:** PyTest, Unit Testing, OOP, REST APIs, Problem-Solving, Modular Coding  
+**Other Tech:** IPFS, MetaMask, Blockchain (Polygon), Smart Contracts  
+
+---
+
+## Projects
+
+### **ChainProof 🛡️**
+**Tech:** React.js, Node.js, Express.js, Solidity, Hardhat, IPFS, MetaMask, Polygon  
+A decentralized application for verifying file integrity using blockchain technology.  
+- Generates unique IPFS hashes for uploaded files.  
+- Stores file fingerprints on the Polygon blockchain via smart contracts.  
+- Users can verify file authenticity instantly.  
+- Frontend integrated with MetaMask, backend manages IPFS uploads.  
+**GitHub:** [ChainProof](https://github.com/mayankjhn/chainproof-hackathon)  
+
+---
+
+## Achievements
+- 🏆 **HackSecure Hackathon 2025 – Winner:** Built nEigent8, a cross-platform data-leak prevention system.  
+- 🥉 **iHackMyPlace (Societe Generale) – 3rd Place:** Solved real-world tech challenges.  
+- 🌟 **Open-Source Contributor – GSSoC 2025:** Contributing to community projects and improving documentation.  
+- 📜 **NPTEL Elite Certificate – Blockchain & Its Applications:** Deep understanding of DLT, Smart Contracts, and dApps.  
+- 💻 Completed a **100-Day DSA Challenge** in Java on LeetCode & CodeChef.  
+
+---
+
+## Let's Connect
+[LinkedIn](https://linkedin.com/in/mayankjhn) | [GitHub](https://github.com/mayankjhn) | agrawalmayank2004@gmail.com  
