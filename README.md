@@ -1,39 +1,103 @@
-# Hi there, I'm Mayank Agarwal 👋
+<h1 align="center">Hi 👋, I'm Mayank Agarwal</h1>
+<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
-**Aspiring Full-Stack Developer | Python & Java Enthusiast | Blockchain Explorer**
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
 
----
+<br>
 
-## About Me
-I'm a Computer Science student at **VIT Bhopal University**, passionate about **problem-solving, open-source contribution, and learning new technologies**.  
-I enjoy building **secure and interactive applications** and improving my skills in **DSA, backend development, and blockchain technologies**.
-
----
-
-## Skills
-
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) 
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
-![Express](https://img.shields.io/badge/-Express.js-333333?style=for-the-badge&logo=express) 
-![Solidity](https://img.shields.io/badge/-Solidity-333333?style=for-the-badge&logo=solidity) 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux) 
-![IPFS](https://img.shields.io/badge/-IPFS-333333?style=for-the-badge&logo=ipfs)
+- 🎓 Final Year B.Tech CSE (Cyber Security & Digital Forensics) @ VIT Bhopal
+- 💻 Passionate about **Java, DSA, Backend Development & Cloud**
+- 🌱 Currently learning **Advanced DSA, System Design & AWS**
+- 🚀 Building projects using **Java, Spring Boot & React**
+- 🏆 Hackathon Winner | Blockchain Enthusiast
+- 💬 Ask me about **Java, DSA, Spring Boot, SQL and Git**
+- 📫 Reach me at **your_email@gmail.com**
 
 ---
 
-## Achievements
-- 🏆 **HackSecure Hackathon 2025 – Winner:** Built nEigent8, a cross-platform data-leak prevention system.  
-- 🥉 **iHackMyPlace (Societe Generale) – 3rd Place:** Solved real-world tech challenges.  
-- 🌟 **Open-Source Contributor – GSSoC 2025:** PRs, issue fixes, and documentation improvements.  
-- 📜 **NPTEL Elite Certificate – Blockchain & Its Applications:** DLT, Smart Contracts, dApps.  
-- 💻 Completed a **100-Day DSA Challenge (Java)** on LeetCode & CodeChef.  
+## 🌐 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/>
+</a>
+</p>
 
 ---
 
-## Connect with Me
-[LinkedIn](https://linkedin.com/in/mayankjhn) | [GitHub](https://github.com/mayankjhn) | agrawalmayank2004@gmail.com  
+## 💻 Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,postgres,git,github,vscode,idea,postman,docker,aws,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+## 🚀 Featured Projects
+
+⭐ **ChainProof**
+> Blockchain-powered document notarization using Solidity, IPFS & React.
+
+⭐ **Secure Attendance System**
+> Face recognition + QR based attendance system to eliminate proxy attendance.
+
+⭐ **SangamSync**
+> AI-powered Volunteer Command Center built during the Mahakumbh Hackathon.
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
