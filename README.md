@@ -18,19 +18,19 @@
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/mayankjhn/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<a href="https://github.com/mayankjhn" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:agrawalmayank2004@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="blank">
+<a href="https://leetcode.com/mayankjhn/" target="_blank">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48"/>
 </a>
 </p>
@@ -45,52 +45,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
 ## 🚀 Featured Projects
 
-⭐ **ChainProof**
-> Blockchain-powered document notarization using Solidity, IPFS & React.
+### ⭐ ChainProof
+Blockchain-powered document notarization using **Solidity, IPFS & React**.
 
-⭐ **Secure Attendance System**
-> Face recognition + QR based attendance system to eliminate proxy attendance.
+### ⭐ SangamSync
+AI-powered Volunteer Command Center built during the **Mahakumbh Hackathon**.
 
-⭐ **SangamSync**
-> AI-powered Volunteer Command Center built during the Mahakumbh Hackathon.
+### ⭐ Secure Attendance System *(Coming Soon)*
+A secure attendance system to eliminate proxy attendance using face recognition and QR verification.
 
 ---
 
