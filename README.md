@@ -11,7 +11,7 @@
 - 🚀 Building projects using **Java, Spring Boot & React**
 - 🏆 Hackathon Winner | Blockchain Enthusiast
 - 💬 Ask me about **Java, DSA, Spring Boot, SQL and Git**
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **agrawalmayank2004@gmail.com**
 
 ---
 
