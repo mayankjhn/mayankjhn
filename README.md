@@ -5,7 +5,7 @@
 
 <br>
 
-- 🎓 Final Year B.Tech CSE (Cyber Security & Digital Forensics) @ VIT Bhopal
+- 🎓 Final Year B.Tech CSE @ Vellore Institute of Technology
 - 💻 Passionate about **Java, DSA, Backend Development & Cloud**
 - 🌱 Currently learning **Advanced DSA, System Design & AWS**
 - 🚀 Building projects using **Java, Spring Boot & React**
